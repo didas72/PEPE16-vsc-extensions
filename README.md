@@ -6,6 +6,6 @@ This was NOT the original repository. Each extension had it's own. Due to this f
 
 - PEPE-16 Syntax Highlighting (ASM) - v1.0.5
 - PEPE-16 Formatter (ASM) - v1.1.0
-- PEPE-16 Intellisens (ASM) - v1.0.0
+- PEPE-16 Intellisense (ASM) - v1.0.0
 
 The license in the base directory of this repository applies to all extensions.

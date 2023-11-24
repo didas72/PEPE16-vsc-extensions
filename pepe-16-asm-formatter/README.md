@@ -14,6 +14,10 @@ None for now. Please report any problems you find.
 
 ## Release Notes
 
+### 1.1.1
+
+Updated repository link to refer to new source code location.
+
 ### 1.1.0
 
 Added cleanup of consecutive whitespaces

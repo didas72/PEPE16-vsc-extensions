@@ -17,6 +17,10 @@ None for now. Please report any problems you find.
 
 ## Release Notes
 
+### 1.0.1
+
+Updated repository link to refer to new source code location.
+
 ### 1.0.0
 
 Initial release.

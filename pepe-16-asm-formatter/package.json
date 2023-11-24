@@ -2,7 +2,7 @@
   "name": "pepe-16-asm-formatter",
   "displayName": "PEPE-16 Formatter (ASM)",
   "description": "Automated formatting for PEPE-16 assembly",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "author": "Diogo Diniz (https://github.com/didas72)",
   "publisher": "didas72",
   "license": "GPL-3.0-only",

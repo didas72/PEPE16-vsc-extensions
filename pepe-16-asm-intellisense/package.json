@@ -2,7 +2,7 @@
   "name": "pepe-16-asm-intellisense",
   "displayName": "PEPE-16 Intellisense (ASM)",
   "description": "Intellisense for PEPE-16 assembly",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Diogo Diniz (https://github.com/didas72)",
   "publisher": "didas72",
   "license": "GPL-3.0-only",

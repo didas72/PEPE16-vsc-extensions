@@ -16,6 +16,10 @@ Includes defined pseudo-instructions
 
 ## Release Notes
 
+### 1.0.6
+
+Updated repository link to refer to new source code location.
+
 ### 1.0.5
 
 Added missing entries in changelog.

@@ -2,7 +2,7 @@
   "name": "pepe-16-asm-syntax-highlighting",
   "displayName": "PEPE-16 Syntax Highlighting (ASM)",
   "description": "Syntax highlighting for PEPE-16 assembly",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "author": "Diogo Diniz (https://github.com/didas72)",
   "publisher": "didas72",
   "license": "GPL-3.0-only",
