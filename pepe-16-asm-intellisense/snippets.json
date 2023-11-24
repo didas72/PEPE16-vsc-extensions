@@ -1,0 +1,24 @@
+{
+	"Entry point": {
+		"prefix": ["entry-point"],
+		"body": ["; Program entry point", "\tPLACE 0H", "entry:", "\tMOV SP, $1", "\t$0"],
+		"description": "Entry pointer boiler plate."
+	},
+
+	"Stack definition": {
+		"prefix": ["stack-allocate"],
+		"body": ["; Allocate space for the stack", "\tPLACE $1", "\tSTACK $2", "stack_top:$0"],
+		"description": "Allocates space for the stack and creates a stack_top label."
+	},
+
+	"Function declaration": {
+		"prefix": ["func", "function-declaration"],
+		"body": ["; $1 - ${2:description}", "${1:name}:", "\t$0", "\tRET"],
+		"description": "Creates an emtpy subroutine with a small documentation comment."
+	},
+
+	"Argument documentation": {
+		"prefix": ["argdoc", "argument-documentation"],
+		"body": ["; Arguments: ${1:register} => ${2:name}", "; Returns: ${3:register} => ${4:description}"]
+	}
+}

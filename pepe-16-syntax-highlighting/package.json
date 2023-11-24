@@ -1,0 +1,29 @@
+{
+  "name": "pepe-16-asm-syntax-highlighting",
+  "displayName": "PEPE-16 Syntax Highlighting (ASM)",
+  "description": "Syntax highlighting for PEPE-16 assembly",
+  "version": "1.0.5",
+  "author": "Diogo Diniz (https://github.com/didas72)",
+  "publisher": "didas72",
+  "license": "GPL-3.0-only",
+  "repository": "https://github.com/didas72/PEPE16-vsc-extensions",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "pepe16asm",
+      "aliases": ["PEPE-16 Assembly", "pepe16asm"],
+      "extensions": [".asm"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "pepe16asm",
+      "scopeName": "source.pepe16asm",
+      "path": "./syntaxes/pepe16asm.tmLanguage.json"
+    }]
+  }
+}
